@@ -1,0 +1,5 @@
+CSV_FILE="../patient_data/classification.csv"
+BP_FILE_ENDING = ""
+ECG_FILE_ENDING = ""
+SIGNAL_FOLDER=""
+CSV_METADATA = ""
